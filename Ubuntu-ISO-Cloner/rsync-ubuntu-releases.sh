@@ -25,4 +25,4 @@ do
 done
 
 # Ubuntu suggests release mirrors to check every four hours, for example:
-# 0 */4 * * * /root/rsync-ubuntu-releases.sh > /root/rsync-ubuntu-releases.log
+# 0 */4 * * * /path/to/rsync-ubuntu-releases.sh > /path/to/rsync-ubuntu-releases.log
